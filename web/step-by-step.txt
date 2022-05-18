@@ -1,0 +1,6 @@
+Descobrir a cor do background color em hexadecimal pelo browser
+
+Modificar, na configuração do tailwind, e colocar a cor exata em hexadecimal do background.
+brand #8257E5
+brand-hover #996DFF
+
